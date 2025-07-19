@@ -1,84 +1,241 @@
 {
   "bilgiKartlari": [
     {
-      "baslik": "Mavi Balina",
-      "icerik": "Dünyanın en büyük hayvanı mavi balinadır. Ağırlığı 150 tonu geçebilir."
+      "baslik": "Gökyüzü Neden Mavi?",
+      "icerik": "Güneş ışığı atmosferde dağıldığında, mavi ışık daha kısa dalga boyuna sahip olduğu için daha çok dağılır ve gökyüzü mavi görünür."
     },
     {
-      "baslik": "Ay'ın Yüzeyi",
-      "icerik": "Ay’da hava olmadığı için ses iletimi yoktur."
+      "baslik": "Arılar Nasıl Dans Eder?",
+      "icerik": "Arılar, diğer arılara çiçeklerin yerini göstermek için özel bir 'vızıltı dansı' yaparlar."
     },
     {
-      "baslik": "İnsan Beyni",
-      "icerik": "İnsan beyninin %75'i sudan oluşur."
+      "baslik": "Timsahlar Gözyaşı Döker mi?",
+      "icerik": "Evet, timsahlar gözyaşı üretir ama bu duygusal değil; gözlerini nemli tutmak içindir."
     },
     {
-      "baslik": "DNA",
-      "icerik": "Bir insanın DNA’sı yaklaşık 3 milyar baz çiftinden oluşur."
+      "baslik": "Kutup Işıkları Nasıl Oluşur?",
+      "icerik": "Kutup ışıkları, Güneş'ten gelen yüklü parçacıkların Dünya'nın manyetik alanıyla etkileşmesi sonucu oluşur."
     },
     {
-      "baslik": "Türkiye'de İlk TV Yayını",
-      "icerik": "Türkiye'de ilk televizyon yayını 1952 yılında yapıldı."
+      "baslik": "Kelebekler Ayaklarıyla Tadar",
+      "icerik": "Kelebekler, tat alma duyularını ayaklarında bulundururlar ve bir yaprağa konarak tadına bakabilirler."
     },
     {
-      "baslik": "En Büyük Çöl",
-      "icerik": "Dünyanın en büyük çölü Antarktika’dır. Çünkü çöl tanımı yağış miktarına göredir."
+      "baslik": "Yarasalar Kör Değildir",
+      "icerik": "Yarasalar aslında kör değildir; hem görürler hem de ses dalgalarıyla yönlerini bulurlar."
     },
     {
-      "baslik": "Kediler ve Miyavlama",
-      "icerik": "Kediler genelde sadece insanlarla iletişim kurmak için miyavlar."
+      "baslik": "Bazı Bitkiler Et Yer",
+      "icerik": "Venüs sinek kapanı gibi bazı bitkiler, böcekleri yakalayıp sindirerek beslenir."
     },
     {
-      "baslik": "Yerçekimi Olmasaydı",
-      "icerik": "Yerçekimi olmasaydı atmosfer uzaya kaçardı."
+      "baslik": "Balıklar Uyumaz mı?",
+      "icerik": "Balıklar da dinlenir ama göz kapakları olmadığından uyudukları anlaşılmaz."
     },
     {
-      "baslik": "Su Aygırı",
-      "icerik": "Su aygırlarının sütü pembedir."
+      "baslik": "Ayakta Uyuyan Hayvanlar",
+      "icerik": "Atlar, bazı kuşlar ve filler gibi hayvanlar ayakta uyuyabilir."
     },
     {
-      "baslik": "Göz Kırpma",
-      "icerik": "Bir insan ortalama olarak günde 20.000 kez göz kırpar."
+      "baslik": "Kutup Ayılarının Kürkü Saydamdır",
+      "icerik": "Kutup ayılarının kürkü aslında beyaz değil, saydamdır; ışığı yansıttığı için beyaz görünür."
     },
     {
-      "baslik": "Einstein ve Notlar",
-      "icerik": "Einstein’in notları genellikle düzensiz ve dağınıktı."
+      "baslik": "Evrende Gözlemlenebilen Madde",
+      "icerik": "Evrenin yaklaşık %68’i karanlık enerji, %27’si karanlık madde ve sadece %5’i bizim görebildiğimiz maddelerden oluşur."
     },
     {
-      "baslik": "Çikolata ve Kalp",
-      "icerik": "Bitter çikolata kalp sağlığına iyi gelir."
+      "baslik": "İlk Yazı",
+      "icerik": "Sümerler, M.Ö. 3200'de çivi yazısıyla tarih, ticaret ve yasaları kaydederek yazının temelini attılar."
     },
     {
-      "baslik": "Bitkiler de Duyar",
-      "icerik": "Bazı çalışmalar bitkilerin müziğe tepki verdiğini gösteriyor."
+      "baslik": "Antibiyotikler ve Virüsler",
+      "icerik": "Antibiyotikler sadece bakterilere karşı etkilidir. Virüsler için antiviral ilaçlar gerekir."
     },
     {
-      "baslik": "Antik Roma",
-      "icerik": "Antik Roma’da mor renk sadece imparatorlar tarafından giyilirdi."
+      "baslik": "Türkiye'nin Kıtaları Birleştiren Konumu",
+      "icerik": "Türkiye, Asya ve Avrupa kıtaları arasında yer alır. İstanbul iki kıtada kurulu tek şehirdir."
     },
     {
-      "baslik": "Parmak İzi",
-      "icerik": "Hiçbir insanın parmak izi birbirine benzemez."
+      "baslik": "Leonardo da Vinci Kimdir?",
+      "icerik": "Da Vinci sadece ressam değil, aynı zamanda mucit, anatomist ve mühendis idi."
     },
     {
-      "baslik": "Denizatı",
-      "icerik": "Denizatlarında doğumu erkek bireyler gerçekleştirir."
+      "baslik": "Dünya Dursa Ne Olurdu?",
+      "icerik": "Dünya bir anda dönmeyi durdursa atmosfer dönmeye devam eder, yıkıcı rüzgarlar oluşurdu."
     },
     {
-      "baslik": "Kalbin Atışı",
-      "icerik": "İnsan kalbi yılda yaklaşık 35 milyon kez atar."
+      "baslik": "En Çok Konuşulan Dil",
+      "icerik": "Ana dil olarak en çok konuşulan dil Mandarin Çincesidir, yaklaşık 1 milyar kişi tarafından konuşulur."
     },
     {
-      "baslik": "Kutup Ayıları",
-      "icerik": "Kutup ayılarının derisi siyahtır, kürkü ise saydamdır."
+      "baslik": "Beyin Günde Kaç Düşünce Üretir?",
+      "icerik": "İnsan beyni günde yaklaşık 60.000 düşünce üretir; çoğu olumsuz ve tekrarlayan düşüncelerdir."
     },
     {
-      "baslik": "Türkiye'nin En Yüksek Dağı",
-      "icerik": "Türkiye'nin en yüksek dağı Ağrı Dağı'dır. 5137 metredir."
+      "baslik": "Ay’daki Ayak İzi",
+      "icerik": "Ay’da atmosfer olmadığından, astronotların ayak izleri milyonlarca yıl kalabilir."
     },
     {
-      "baslik": "Mona Lisa",
-      "icerik": "Mona Lisa tablosunun gözleri nereye giderseniz gidin sizi izliyormuş gibi görünür."
+      "baslik": "En Eski Üniversite",
+      "icerik": "Fas’taki Al Quaraouiyine Üniversitesi 859 yılında kuruldu; kurucusu Fatima al-Fihri’dir."
+    },
+    {
+      "baslik": "Mamutlar ve Piramitler",
+      "icerik": "Mısır piramitleri inşa edildiğinde Sibirya’da hâlâ mamutlar yaşıyordu."
+    },
+    {
+      "baslik": "İnsan Vücudu Kaç Hücreden Oluşur?",
+      "icerik": "Vücutta yaklaşık 37 trilyon hücre vardır. Her gün milyonlarcası yenilenir."
+    },
+    {
+      "baslik": "Satrançta Kombinasyon Sayısı",
+      "icerik": "Satrançta olası oyun kombinasyonları evrendeki atom sayısından fazladır (10^120)."
+    },
+    {
+      "baslik": "Plüton'un Statüsü",
+      "icerik": "Plüton 1930’da gezegen ilan edildi, 2006’da cüce gezegen olarak yeniden sınıflandırıldı."
+    },
+    {
+      "baslik": "Japonya’daki Otomatlar",
+      "icerik": "Japonya’da yaklaşık 5.5 milyon otomat makinesi vardır. İçlerinde çorap, yemek, kitap bile bulunur."
+    },
+    {
+      "baslik": "Yunuslar İsimlerini Tanır",
+      "icerik": "Yunuslar, diğer yunusların çıkardığı sesi tanır ve kendi 'isimlerine' tepki verir."
+    },
+    {
+      "baslik": "Shakespeare'in Kelimeleri",
+      "icerik": "Shakespeare, lonely, eyeball, swagger gibi 1700’den fazla yeni kelime kazandırmıştır."
+    },
+    {
+      "baslik": "Türkiye'de İlk Radyo Yayını",
+      "icerik": "Türkiye’de ilk resmi radyo yayını 1927’de Ankara Radyosu tarafından yapılmıştır."
+    },
+    {
+      "baslik": "En Eski Ağaç",
+      "icerik": "İsveç’teki Old Tjikko adlı ağaç yaklaşık 9.500 yaşındadır; klon kök sistemiyle yaşar."
+    },
+    {
+      "baslik": "Kahvenin Kökeni",
+      "icerik": "Kahve ilk kez Etiyopya’da keşfedildi. Keçilerin enerjik davranışları bu keşfi sağladı."
+   
+    },
+    {
+      "baslik": "Arılar Nasıl Dans Eder?",
+      "icerik": "Arılar, diğer arılara çiçeklerin yerini göstermek için özel bir 'vızıltı dansı' yaparlar."
+    },
+    {
+      "baslik": "Timsahlar Gözyaşı Döker mi?",
+      "icerik": "Evet, timsahlar gözyaşı üretir ama bu duygusal değil; gözlerini nemli tutmak içindir."
+    },
+    {
+      "baslik": "Kutup Işıkları Nasıl Oluşur?",
+      "icerik": "Kutup ışıkları, Güneş'ten gelen yüklü parçacıkların Dünya'nın manyetik alanıyla etkileşmesi sonucu oluşur."
+    },
+    {
+      "baslik": "Kelebekler Ayaklarıyla Tadar",
+      "icerik": "Kelebekler, tat alma duyularını ayaklarında bulundururlar ve bir yaprağa konarak tadına bakabilirler."
+    },
+    {
+      "baslik": "Yarasalar Kör Değildir",
+      "icerik": "Yarasalar aslında kör değildir; hem görürler hem de ses dalgalarıyla yönlerini bulurlar."
+    },
+    {
+      "baslik": "Bazı Bitkiler Et Yer",
+      "icerik": "Venüs sinek kapanı gibi bazı bitkiler, böcekleri yakalayıp sindirerek beslenir."
+    },
+    {
+      "baslik": "Balıklar Uyumaz mı?",
+      "icerik": "Balıklar da dinlenir ama göz kapakları olmadığından uyudukları anlaşılmaz."
+    },
+    {
+      "baslik": "Ayakta Uyuyan Hayvanlar",
+      "icerik": "Atlar, bazı kuşlar ve filler gibi hayvanlar ayakta uyuyabilir."
+    },
+    {
+      "baslik": "Kutup Ayılarının Kürkü Saydamdır",
+      "icerik": "Kutup ayılarının kürkü aslında beyaz değil, saydamdır; ışığı yansıttığı için beyaz görünür."
+    },
+    {
+      "baslik": "Evrende Gözlemlenebilen Madde",
+      "icerik": "Evrenin yaklaşık %68’i karanlık enerji, %27’si karanlık madde ve sadece %5’i bizim görebildiğimiz maddelerden oluşur."
+    },
+    {
+      "baslik": "İlk Yazı",
+      "icerik": "Sümerler, M.Ö. 3200'de çivi yazısıyla tarih, ticaret ve yasaları kaydederek yazının temelini attılar."
+    },
+    {
+      "baslik": "Antibiyotikler ve Virüsler",
+      "icerik": "Antibiyotikler sadece bakterilere karşı etkilidir. Virüsler için antiviral ilaçlar gerekir."
+    },
+    {
+      "baslik": "Türkiye'nin Kıtaları Birleştiren Konumu",
+      "icerik": "Türkiye, Asya ve Avrupa kıtaları arasında yer alır. İstanbul iki kıtada kurulu tek şehirdir."
+    },
+    {
+      "baslik": "Leonardo da Vinci Kimdir?",
+      "icerik": "Da Vinci sadece ressam değil, aynı zamanda mucit, anatomist ve mühendis idi."
+    },
+    {
+      "baslik": "Dünya Dursa Ne Olurdu?",
+      "icerik": "Dünya bir anda dönmeyi durdursa atmosfer dönmeye devam eder, yıkıcı rüzgarlar oluşurdu."
+    },
+    {
+      "baslik": "En Çok Konuşulan Dil",
+      "icerik": "Ana dil olarak en çok konuşulan dil Mandarin Çincesidir, yaklaşık 1 milyar kişi tarafından konuşulur."
+    },
+    {
+      "baslik": "Beyin Günde Kaç Düşünce Üretir?",
+      "icerik": "İnsan beyni günde yaklaşık 60.000 düşünce üretir; çoğu olumsuz ve tekrarlayan düşüncelerdir."
+    },
+    {
+      "baslik": "Ay’daki Ayak İzi",
+      "icerik": "Ay’da atmosfer olmadığından, astronotların ayak izleri milyonlarca yıl kalabilir."
+    },
+    {
+      "baslik": "En Eski Üniversite",
+      "icerik": "Fas’taki Al Quaraouiyine Üniversitesi 859 yılında kuruldu; kurucusu Fatima al-Fihri’dir."
+    },
+    {
+      "baslik": "Mamutlar ve Piramitler",
+      "icerik": "Mısır piramitleri inşa edildiğinde Sibirya’da hâlâ mamutlar yaşıyordu."
+    },
+    {
+      "baslik": "İnsan Vücudu Kaç Hücreden Oluşur?",
+      "icerik": "Vücutta yaklaşık 37 trilyon hücre vardır. Her gün milyonlarcası yenilenir."
+    },
+    {
+      "baslik": "Satrançta Kombinasyon Sayısı",
+      "icerik": "Satrançta olası oyun kombinasyonları evrendeki atom sayısından fazladır (10^120)."
+    },
+    {
+      "baslik": "Plüton'un Statüsü",
+      "icerik": "Plüton 1930’da gezegen ilan edildi, 2006’da cüce gezegen olarak yeniden sınıflandırıldı."
+    },
+    {
+      "baslik": "Japonya’daki Otomatlar",
+      "icerik": "Japonya’da yaklaşık 5.5 milyon otomat makinesi vardır. İçlerinde çorap, yemek, kitap bile bulunur."
+    },
+    {
+      "baslik": "Yunuslar İsimlerini Tanır",
+      "icerik": "Yunuslar, diğer yunusların çıkardığı sesi tanır ve kendi 'isimlerine' tepki verir."
+    },
+    {
+      "baslik": "Shakespeare'in Kelimeleri",
+      "icerik": "Shakespeare, lonely, eyeball, swagger gibi 1700’den fazla yeni kelime kazandırmıştır."
+    },
+    {
+      "baslik": "Türkiye'de İlk Radyo Yayını",
+      "icerik": "Türkiye’de ilk resmi radyo yayını 1927’de Ankara Radyosu tarafından yapılmıştır."
+    },
+    {
+      "baslik": "En Eski Ağaç",
+      "icerik": "İsveç’teki Old Tjikko adlı ağaç yaklaşık 9.500 yaşındadır; klon kök sistemiyle yaşar."
+    },
+    {
+      "baslik": "Kahvenin Kökeni",
+      "icerik": "Kahve ilk kez Etiyopya’da keşfedildi. Keçilerin enerjik davranışları bu keşfi sağladı."
     }
   ]
 }
